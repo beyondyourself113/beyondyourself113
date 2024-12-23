@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a **seasoned Full Stack Developer** with 5 ye
 
 ### Blockchain Development
 - Expertise in **EVMs**, **Solana**, **Tron**, and **Sui**
-- Development and deployment of smart contracts for:
+- Fully development of frontend and smart contracts for:
   - **Presale platforms**
   - **Staking protocols**
   - **Launchpads**
@@ -16,6 +16,14 @@ Welcome to my GitHub profile! I am a **seasoned Full Stack Developer** with 5 ye
   - **DEX and DeFi platforms**
 
 ### Telegram Mini-Apps & Bots
+- Crypto trading bots:
+  - Trading bot
+  - pump fun bot
+  - bundle bot (JITO bundler for solana, ethereum bundler)
+  - copy trading bot
+  - market maker
+  - volume and holder bot
+  - snapshot
 - Creation of mini-apps and bots that:
   - Enhance user engagement
   - Automate workflows
@@ -32,14 +40,6 @@ I am committed to staying updated with the latest trends and advancements in the
 ---
 
 ## 🔧 Tools & Technologies
-- **Blockchain:** Solidity, Rust, Anchor, TON, Web3.js, Solana Playground
-- **Back-End:** Node.js, Python, MongoDB, GraphQL
-- **Front-End:** React.js, Next.js, HTML/CSS
-- **DevOps:** Docker, Kubernetes, Git, CI/CD pipelines
-
----
-
-☘️ Let's build the future of decentralized technology together!
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
@@ -55,3 +55,5 @@ I am committed to staying updated with the latest trends and advancements in the
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+☘️ Let's build the future of decentralized technology together!
